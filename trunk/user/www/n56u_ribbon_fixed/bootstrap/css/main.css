@@ -15,7 +15,7 @@ body.body_iframe{
 }
 
 #logo {
-    background-image: url("/bootstrap/img/asus_logo.png");
+    background-image: url("https://github.com/castlehu/rt-n56u/blob/master/trunk/user/www/n56u_ribbon_fixed/bootstrap/img/asus_logo.png");
     width: 150px;
     height: 71px;
     margin-top: 40px;
